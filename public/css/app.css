@@ -1,0 +1,24 @@
+.timer{
+    font-family: 'Arial', sans-serif;
+    font-size: 5pc;
+    font-weight: bold;
+    
+    letter-spacing: 3px;
+    color: rgb(110, 125, 136);   
+}
+
+.container{
+    width: 700px;
+}
+
+.timer span{
+    color: rgba(197,202,219,1);
+}
+
+.timer.active {
+    color: red;
+}
+
+.timer.active span{
+    color: black
+}

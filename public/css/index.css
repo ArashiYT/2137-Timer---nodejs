@@ -1,0 +1,17 @@
+body{
+    background: rgb(212,216,233);
+    background: linear-gradient(90deg, rgba(212,216,233,1) 12%, rgba(197,202,219,1) 23%, rgba(63,84,99,1) 89%); 
+}
+
+.container{
+    width: 500px;
+    background-color: #FFF;
+    border-radius: 5px;
+    box-shadow: 2px 2px 2px 2px rgb(134, 134, 134);
+    padding: 15px 10px;
+    display: block;
+    margin: 0 auto;
+
+    margin-top: 20rem;
+}
+

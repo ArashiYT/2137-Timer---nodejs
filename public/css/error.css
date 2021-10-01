@@ -1,0 +1,11 @@
+.container h4{
+    color: #F00;
+    text-align: center;
+}
+
+.container p{
+    margin: 0;
+    position: absolute;
+    font-size: 0.4rem;
+    font-weight: bold;
+}
